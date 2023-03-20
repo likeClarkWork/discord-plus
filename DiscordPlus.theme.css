@@ -38,7 +38,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://images.unsplash.com/photo-1592587820216-56ccbdac03cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80);
+  --dplus-backdrop: url(https://64.media.tumblr.com/df0a65a0e0e8ef0b1c257b457e4854a1/37b52de0dcfbcbd2-ce/s1280x1920/7d77e821d635a361dd74d8f51c50631ec7a03029.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -60,7 +60,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://images.unsplash.com/photo-1592587820216-56ccbdac03cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80);
+  --dplus-backdrop: url(https://64.media.tumblr.com/df0a65a0e0e8ef0b1c257b457e4854a1/37b52de0dcfbcbd2-ce/s1280x1920/7d77e821d635a361dd74d8f51c50631ec7a03029.jpg);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
